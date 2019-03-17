@@ -79,7 +79,7 @@
         /// <summary>
         /// Gets the picture buffer stride.
         /// </summary>
-        internal int PictureBufferStride { get; private set; }
+        public int PictureBufferStride { get; private set; }
 
         #endregion
 
